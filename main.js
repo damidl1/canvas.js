@@ -36,3 +36,9 @@ function moveAll() {
 }
 
 requestAnimationFrame(moveAll);
+
+
+
+
+//1) creare una classe circle che faccia la stessa cosa della classe Rect
+//2) creare un'opera d'arte 
